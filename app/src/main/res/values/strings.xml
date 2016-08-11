@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cuatri Final</string>
+    <string name="tv_prom">Promedio:</string>
+    <string name="tv_n_apro"># Aprobados:</string>
+    <string name="tv_n_rep"># Reprobados:</string>
+    <string name="tv_i_apro">I. de Aprobación:</string>
+    <string name="tv_i_rep">I. de Reprobación:</string>
+    <string name="tv_i_des">I. de Deserción:</string>
+</resources>
